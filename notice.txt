@@ -1,0 +1,2 @@
+# 접속기 공지 목록 (공지만들기.py 가 만듦). 형식: [태그] 제목|날짜|주소
+[공지] 무림 1.0 정식 접속기 안내|11.17|https://mmmulim.github.io/mmmpat/notice/20261117-launcher10/
